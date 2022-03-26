@@ -1,0 +1,25 @@
+{
+  "name": "javascript-utility-helper",
+  "version": "0.0.1",
+  "description": "A modern JavaScript utility library delivering modularity. This library makes Javascript easier in working with arrays, objects, strings, dates and any other algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suupham2506/javascript-utility-helper.git"
+  },
+  "keywords": [
+    "javascript",
+    "javascript-utility",
+    "javascript-helper",
+    "javascript-utility-helper"
+  ],
+  "author": "Suu Pham <suu.pham2506@gmail.com> (https://github.com/suupham2506)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suupham2506/javascript-utility-helper/issues"
+  },
+  "homepage": "https://github.com/suupham2506/javascript-utility-helper#readme"
+}
